@@ -5,4 +5,4 @@ SwiftScribe is an innovative web application that automatically transcribes and 
 https://swift-scribe.vercel.app/
 
 
-** Codebase will be released soon.
+** Codebase will be released soon. Built together with my group mate Gerald for CP2106 (NUS Computer Science)
